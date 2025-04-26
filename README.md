@@ -1,7 +1,7 @@
 ## Developer with a passion for CI/CD and automation
 
 
-![alt text](cplusplus-original.svg)
+cplusplus-original.svg
 <!-- 
 **jmalkurdi42/jmalkurdi42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
