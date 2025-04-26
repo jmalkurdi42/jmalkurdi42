@@ -45,7 +45,7 @@
 <h3 align="center">Currently Experimenting With:</h3>
 <p align="center">
 <img alt="Rust" width="42px" height="42px" src="https://raw.github.com/xaviergmail/jmalkurdi42/master/icons/rust.svg"> &nbsp; &nbsp; &nbsp;
-<img alt="Rust" width="42px" height="42px" src="https://raw.github.com/xaviergmail/jmalkurdi42/master/icons/unrealengine-original.svg"> &nbsp; &nbsp; &nbsp;
+<img alt="Unreal Engine" width="42px" height="42px" src="https://raw.github.com/xaviergmail/jmalkurdi42/master/icons/unrealengine-original.svg"> &nbsp; &nbsp; &nbsp;
 </p>
 
 <p align="center"><sub>The above is not an exhaustive list of my skill set. I have done us both the pleasure of omitting things I don't have enough experience with  boring / old / outdated technologies such as PHP and jQuery, but I do have some experience and/or exposure to a lot of other things.</sub></p>
