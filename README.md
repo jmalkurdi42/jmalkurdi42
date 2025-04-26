@@ -1,4 +1,9 @@
 <h1 align="center">Software Developer with a passion for Quantum Computing and Automation</h1>
+<p align="center">
+<span float="left" align="center">
+Tennessee Technological University graduate with a Bachelor's of Science in Computer Science
+</span>
+</p>
 
 <table outline="false">
 <tr>
