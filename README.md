@@ -1,17 +1,5 @@
-<h1 align="center">AWS Certified Developer with a passion for CI/CD and automation</h1>
+<h1 align="center">Developer with a passion for CI/CD and automation</h1>
 <br/>
-
-<p align="center">
-<span float="left" align="center">
-<a href="https://links.xavier.lol/"><img alt="All my links" src="https://raw.github.com/xaviergmail/xaviergmail/master/icons/allmylinks.svg"/></a>
-</span>
-<span float="left" align="center">
-    <a href="https://linkedin.com/in/xavier-bergeron/"><img alt="Linkedin"src="https://raw.github.com/xaviergmail/xaviergmail/master/icons/linkedin.svg"/></a>
-</span>
-<span float="left" align="center">
-    <a href="https://csigit.csiservers.com/xavier/"><img alt="GitLab"src="https://raw.github.com/xaviergmail/xaviergmail/master/icons/gitlab-badge.svg"/></a>
-</span>
-</p>
 
 <!-- Oh god please no don't make me use a table to lay things out. Flexbox markdown when? -->
 <table outline="false">
