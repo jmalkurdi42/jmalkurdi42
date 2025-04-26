@@ -1,4 +1,4 @@
-<h1 align="center">Software Developer with a passion for Quantum Computing and Automation</h1>
+<h1 align="center">Software Developer with a passion for CI/CD and Automation</h1>
 <p align="center">
 <span float="left" align="center">
 Tennessee Technological University graduate with a Bachelor's of Science in Computer Science
