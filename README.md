@@ -3,7 +3,7 @@
 <table outline="false">
 <tr>
         <td width="156px" valign="center" align="center">
-        <img alt="TnTech" width="128px" height="100px" src="https://raw.github.com/jmalkurdi42/jmalkurdi42/master/icons/TechSignatureSeal_TransparentBkgd_Purple.png"> &nbsp; &nbsp; &nbsp;
+        <img alt="TnTech" width="128px" height="128px" src="https://raw.github.com/jmalkurdi42/jmalkurdi42/master/icons/TechSignatureSeal_TransparentBkgd_Purple.png"> &nbsp; &nbsp; &nbsp;
     <td>
         I play around with a bit of everything from embedded systems to database design, cloud infrastructure, game development, robotics and web development. I don't like standing still; I often try out new languages and frameworks to discover the hype around them and find practical uses cases
     </td>
