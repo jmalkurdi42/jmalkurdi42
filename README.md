@@ -1,4 +1,4 @@
-## Hi there 👋
+Developer with a passion for CI/CD and automation
 
 <!--
 **jmalkurdi42/jmalkurdi42** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
