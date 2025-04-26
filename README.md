@@ -23,6 +23,7 @@
 <img alt="C#" width="42px" height="42px" src="https://raw.github.com/jmalkurdi42/jmalkurdi42/master/icons/csharp-original.svg"> &nbsp; &nbsp; &nbsp;
 <img alt="Flutter" width="42px" height="42px" src="https://raw.github.com/xaviergmail/xaviergmail/master/icons/flutter.svg"> &nbsp; &nbsp; &nbsp;
 <img alt="Lua" width="42px" height="42px" src="https://raw.github.com/xaviergmail/xaviergmail/master/icons/lua.svg"> &nbsp; &nbsp; &nbsp;
+<img alt="React" width="42px" height="42px" src="https://raw.github.com/xaviergmail/xaviergmail/master/icons/react.svg"> &nbsp; &nbsp; &nbsp;
 <img alt="Java" width="42px" height="42px" src="https://raw.github.com/xaviergmail/xaviergmail/master/icons/java.svg"> &nbsp; &nbsp; &nbsp;
 <img alt="HTML5" width="42px" height="42px" src="https://raw.github.com/xaviergmail/xaviergmail/master/icons/html5.svg"> &nbsp; &nbsp; &nbsp;
 <img alt="Unity" width="42px" height="42px" src="https://raw.github.com/xaviergmail/xaviergmail/master/icons/unity.svg"> &nbsp; &nbsp; &nbsp;
@@ -37,7 +38,6 @@
 <img alt="Figma" width="42px" height="42px" src="https://raw.github.com/xaviergmail/xaviergmail/master/icons/figma.svg"> &nbsp; &nbsp; &nbsp;
 <img alt="MongoDB" width="42px" height="42px" src="https://raw.github.com/xaviergmail/xaviergmail/master/icons/mongo.svg"> &nbsp; &nbsp; &nbsp;
 <img alt="Android" width="42px" height="42px" src="https://raw.github.com/jmalkurdi42/jmalkurdi42/master/icons/matlab-original.svg"> &nbsp; &nbsp; &nbsp;
-<img alt="React" width="42px" height="42px" src="https://raw.github.com/xaviergmail/xaviergmail/master/icons/react.svg"> &nbsp; &nbsp; &nbsp;
 <img alt="Android" width="42px" height="42px" src="https://raw.github.com/xaviergmail/xaviergmail/master/icons/android.svg"> &nbsp; &nbsp; &nbsp;
 </p>
 
