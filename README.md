@@ -1,4 +1,4 @@
-<h1 align="center">Software Developer with a passion for Quantum Computing</h1>
+<h1 align="center">Software Developer with a passion for Quantum Computing and Automation</h1>
 <br/>
 
 <h1 align="center">Technologies!</h1>
