@@ -11,7 +11,7 @@ Tennessee Technological University graduate with a Bachelor's of Science in Comp
         <img alt="TnTech" src="https://raw.github.com/jmalkurdi42/jmalkurdi42/master/icons/TechSignatureSeal_TransparentBkgd_Purple.png">
     </td>
     <td>
-        I play around with a bit of everything from embedded systems to database design, cloud infrastructure, game development, robotics and web development. I don't like standing still; I often try out new languages and frameworks to discover the hype around them and find practical uses cases
+        I play around with a bit of everything from qiskit programming to web development, game development, and cloud infrastructure.  I don't like standing still; I often try out new languages and frameworks to discover the hype around them and find practical uses cases
     </td>
 </tr>
 </table>
