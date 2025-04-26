@@ -2,23 +2,6 @@
 <br/>
 
 <!-- Oh god please no don't make me use a table to lay things out. Flexbox markdown when? -->
-<table outline="false">
-<tr>
-    <td width="156px" valign="center" align="center">
-        <a href="https://www.youracclaim.com/badges/dbbd5f6f-c02e-4b2e-8663-d870c7bffe9c/"><img width="128px" height="128px"" alt="AWS Certified Developer Associate" src="https://raw.github.com/xaviergmail/xaviergmail/master/icons/aws-cda.png"/></a>
-    </td>
-    <td>
-        I play around with a bit of everything from embedded systems to database design, cloud infrastructure, game development, robotics and web development. I don't like standing still; I often try out new languages and frameworks to discover the hype around them and find practical uses cases
-    </td>
-</tr>
-</table>
-
-<h3 align="center">Also look at my <a href="https://csigit.csiservers.com/xavier">self-hosted GitLab</a> instance!</h3>
-
-<p align="center">
-Most repositories including my games are private / proprietary. If you are an employer and would like to request repository access access to my proudest projects, you may <a href="https://www.linkedin.com/in/xavier-bergeron/">contact me on LinkedIn</a> and I will happily provide you with guest credentials.
-</p>
-<br/> <br/>
 
 <h1 align="center">Technologies!</h1>
 
