@@ -2,7 +2,7 @@
 
 <table outline="false">
 <tr>
-        <td valign="center" align="center">
+        <td width="156px" height="156px">
         <img alt="TnTech" width="128px" height="128px" src="https://raw.github.com/jmalkurdi42/jmalkurdi42/master/icons/TechSignatureSeal_TransparentBkgd_Purple.png"> &nbsp; &nbsp; &nbsp;
         </td>
     <td>
