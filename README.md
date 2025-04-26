@@ -20,7 +20,7 @@
 <h3 align="center">Experienced With:</h3>
 <p align="center" float="left">
 <img alt="C#" width="42px" height="42px" src="https://raw.github.com/jmalkurdi42/jmalkurdi42/master/icons/csharp-original.svg"> &nbsp; &nbsp; &nbsp;
-<img alt="Lua" width="42px" height="64px" src="https://raw.github.com/xaviergmail/xaviergmail/master/icons/lua.svg"> &nbsp; &nbsp; &nbsp;
+<img alt="Lua" width="42px" height="42px" src="https://raw.github.com/xaviergmail/xaviergmail/master/icons/lua.svg"> &nbsp; &nbsp; &nbsp;
 <img alt="Premake" width="42px" height="42px" src="https://raw.github.com/xaviergmail/xaviergmail/master/icons/premake-logo.png"> &nbsp; &nbsp; &nbsp;
 <img alt="Java" width="42px" height="42px" src="https://raw.github.com/xaviergmail/xaviergmail/master/icons/java.svg"> &nbsp; &nbsp; &nbsp;
 <img alt="HTML5" width="42px" height="42px" src="https://raw.github.com/xaviergmail/xaviergmail/master/icons/html5.svg"> &nbsp; &nbsp; &nbsp;
