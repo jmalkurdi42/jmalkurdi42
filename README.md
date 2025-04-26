@@ -1,10 +1,15 @@
 <h1 align="center">Software Developer with a passion for Quantum Computing and Automation</h1>
 <table outline="false">
+<table outline="false">
 <tr>
+    <td width="156px" valign="center" align="center">
+        <a href="[https://www.youracclaim.com/badges/dbbd5f6f-c02e-4b2e-8663-d870c7bffe9c/](https://www.tntech.edu/_resources/2023-theme/images/tenn-tech-logo.svg)"><img width="128px" height="128px"" alt="AWS Certified Developer Associate" src="https://raw.github.com/xaviergmail/xaviergmail/master/icons/aws-cda.png"/></a>
+    </td>
     <td>
         I play around with a bit of everything from embedded systems to database design, cloud infrastructure, game development, robotics and web development. I don't like standing still; I often try out new languages and frameworks to discover the hype around them and find practical uses cases
     </td>
 </tr>
+</table>
 </table>
 <h1 align="center">Technologies!</h1>
 <h3 align="center">Preferred / Proficient. My ideal day-to-day!</h3>
