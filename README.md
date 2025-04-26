@@ -5,7 +5,7 @@
 
 <h3 align="center">Preferred / Proficient. My ideal day-to-day!</h3>
 <p align="center" float="left">
-<img alt="AWS (Amazon Web Services)" width="64px" height="64px" src="https://raw.github.com/jmalkurdi42/jmalkurdi42/master/icons/cplusplus-original.svg"> &nbsp; &nbsp; &nbsp;
+<img alt="C++" width="64px" height="64px" src="https://raw.github.com/jmalkurdi42/jmalkurdi42/master/icons/cplusplus-original.svg"> &nbsp; &nbsp; &nbsp;
 <img alt="GitLab CI/CD"  width="64px" height="64px" src="https://raw.github.com/xaviergmail/xaviergmail/master/icons/gitlab.svg"> &nbsp; &nbsp; &nbsp;
 <img alt="Lua" width="64px" height="64px" src="https://raw.github.com/xaviergmail/xaviergmail/master/icons/lua.svg"> &nbsp; &nbsp; &nbsp;
 <img alt="Python" width="64px" height="64px" src="https://raw.github.com/xaviergmail/xaviergmail/master/icons/python.svg"> &nbsp; &nbsp; &nbsp;
