@@ -3,7 +3,7 @@
 <table outline="false">
 <tr>
     <td width="156px" valign="center" align="center">
-        <a href="https://www.tntech.edu/_resources/2023-theme/images/tenn-tech-logo.svg"><img width="128px" height="128px"" alt="AWS Certified Developer Associate" src="https://www.tntech.edu/_resources/2023-theme/images/tenn-tech-logo.svg"/></a>
+        <img alt="TnTech" width="128px" height="128px" src="https://raw.github.com/jmalkurdi42/jmalkurdi42/master/icons/TechSignatureSeal_TransparentBkgd_Purple.png"> &nbsp; &nbsp; &nbsp;
     </td>
     <td>
         I play around with a bit of everything from embedded systems to database design, cloud infrastructure, game development, robotics and web development. I don't like standing still; I often try out new languages and frameworks to discover the hype around them and find practical uses cases
