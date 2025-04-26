@@ -1,8 +1,6 @@
 <h1 align="center">Software Developer with a passion for Quantum Computing and Automation</h1>
 <br/>
-
 <h1 align="center">Technologies!</h1>
-
 <h3 align="center">Preferred / Proficient. My ideal day-to-day!</h3>
 <p align="center" float="left">
 <img alt="C" width="64px" height="64px" src="https://raw.github.com/jmalkurdi42/jmalkurdi42/master/icons/c-original.svg"> &nbsp; &nbsp; &nbsp;
