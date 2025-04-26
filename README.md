@@ -1,5 +1,11 @@
 <h1 align="center">Software Developer with a passion for Quantum Computing and Automation</h1>
-<br/>
+<table outline="false">
+<tr>
+    <td>
+        I play around with a bit of everything from embedded systems to database design, cloud infrastructure, game development, robotics and web development. I don't like standing still; I often try out new languages and frameworks to discover the hype around them and find practical uses cases
+    </td>
+</tr>
+</table>
 <h1 align="center">Technologies!</h1>
 <h3 align="center">Preferred / Proficient. My ideal day-to-day!</h3>
 <p align="center" float="left">
