@@ -7,14 +7,12 @@
 <p align="center" float="left">
 <img alt="C" width="64px" height="64px" src="https://raw.github.com/jmalkurdi42/jmalkurdi42/master/icons/c-original.svg"> &nbsp; &nbsp; &nbsp;
 <img alt="C++" width="64px" height="64px" src="https://raw.github.com/jmalkurdi42/jmalkurdi42/master/icons/cplusplus-original.svg"> &nbsp; &nbsp; &nbsp;
-<img alt="Lua" width="64px" height="64px" src="https://raw.github.com/xaviergmail/xaviergmail/master/icons/lua.svg"> &nbsp; &nbsp; &nbsp;
 <img alt="Python" width="64px" height="64px" src="https://raw.github.com/xaviergmail/xaviergmail/master/icons/python.svg"> &nbsp; &nbsp; &nbsp;
 <img alt="Jira" width="64px" height="64px" src="https://raw.github.com/jmalkurdi42/jmalkurdi42/master/icons/jira-original-wordmark.svg"> &nbsp; &nbsp; &nbsp;
 <img alt="Javascript" width="64px" height="64px" src="https://raw.github.com/xaviergmail/xaviergmail/master/icons/javascript.svg"> &nbsp; &nbsp; &nbsp;
 <img alt="CSS" width="64px" height="64px" src="https://raw.github.com/xaviergmail/xaviergmail/master/icons/css3.svg"> &nbsp; &nbsp; &nbsp;
 <img alt="Docker" width="64px" height="64px" src="https://raw.github.com/xaviergmail/xaviergmail/master/icons/docker.svg"> &nbsp; &nbsp; &nbsp;
 <img alt="Qiskit" width="64px" height="64px" src="https://raw.github.com/jmalkurdi42/jmalkurdi42/master/icons/qiskit.svg"> &nbsp; &nbsp; &nbsp;
-<img alt="Flask" width="64px" height="64px" src="https://raw.github.com/xaviergmail/xaviergmail/master/icons/flask.svg"> &nbsp; &nbsp; &nbsp;
 <br/>
 </p>
 
@@ -22,6 +20,7 @@
 <h3 align="center">Experienced With:</h3>
 <p align="center" float="left">
 <img alt="C#" width="42px" height="42px" src="https://raw.github.com/jmalkurdi42/jmalkurdi42/master/icons/csharp-original.svg"> &nbsp; &nbsp; &nbsp;
+<img alt="Lua" width="64px" height="64px" src="https://raw.github.com/xaviergmail/xaviergmail/master/icons/lua.svg"> &nbsp; &nbsp; &nbsp;
 <img alt="Premake" width="42px" height="42px" src="https://raw.github.com/xaviergmail/xaviergmail/master/icons/premake-logo.png"> &nbsp; &nbsp; &nbsp;
 <img alt="Java" width="42px" height="42px" src="https://raw.github.com/xaviergmail/xaviergmail/master/icons/java.svg"> &nbsp; &nbsp; &nbsp;
 <img alt="HTML5" width="42px" height="42px" src="https://raw.github.com/xaviergmail/xaviergmail/master/icons/html5.svg"> &nbsp; &nbsp; &nbsp;
