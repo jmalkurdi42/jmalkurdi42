@@ -1,5 +1,5 @@
 
-<h1 align="center">Software Developer with a passion for CI/CD and Automation</h1>
+<h1 align="center">Software Developer with a passion for Quantum Computing and Machine Learning</h1>
 <p align="center">
 <span float="left" align="center">
 Software Developer w/ Bachelor's of Science in Computer Science
