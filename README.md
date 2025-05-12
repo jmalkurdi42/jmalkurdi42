@@ -2,7 +2,7 @@
 <h1 align="center">Software Developer with a passion for CI/CD and Automation</h1>
 <p align="center">
 <span float="left" align="center">
-Tennessee Technological University graduate with a Bachelor's of Science in Computer Science
+Software Developer w/ Bachelor's of Science in Computer Science
 </span>
 </p>
 
